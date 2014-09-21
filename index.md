@@ -11,16 +11,6 @@ mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 ---
 
-## Introduction of IRIS
-
-- **Iris** is a genus of 260-300 species of flowering plants with showy flowers.
-- It takes its name from the Greek word for a **rainbow**, referring to the wide variety of flower colors found among the many species.
-- It is a popular garden flower.
-- **Iris** is the largest genus of the family *Iridanceae* up to 300 species - many of them natural hybrids.
-- Modern classifications are invented by **Dykes** (1913).
-
----
-
 ## Fisher's Iris Data Set
 
 - The `Iris flower data set` or `Fisher's Iris data set` is a multivariate data set introduced by **Sir Ronald Fisher** (1936) as an example of **discriminant analysis**.
